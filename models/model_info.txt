@@ -1,0 +1,4 @@
+Best model: logistic_regression
+logistic_regression: accuracy=0.8995, f1=0.9013
+linear_svm: accuracy=0.8989, f1=0.8997
+naive_bayes: accuracy=0.8773, f1=0.8788
